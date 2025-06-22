@@ -1,1 +1,1 @@
-# Blinkit-Sales-data-Dashboard-
+ Blinkit Sales Analysis Project focused on exploring sales performance and customer trends using Python, MySQL, and Power BI. Cleaned and structured e-commerce data, analyzed key metrics like revenue, product demand, and region-wise performance. Designed interactive Power BI dashboards to visualize insights and support data-driven decisions. Enhanced my skills in data wrangling, KPI analysis, and dashboard creation.
